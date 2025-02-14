@@ -1,0 +1,13 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_pacientes_user,hospital_mario.pacientes,model_hospital_mario_pacientes,base.group_user,1,1,1,1
+access_medicos_user,hospital_mario.medicos,model_hospital_mario_medicos,base.group_user,1,1,1,1
+access_diagnostico_user,hospital_mario.diagnostico,model_hospital_mario_diagnostico,base.group_user,1,1,1,1
+
+
+
+
+
+
+
+
+
